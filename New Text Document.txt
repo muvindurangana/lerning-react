@@ -1,0 +1,7 @@
+<MyApp status='completed' text={'git hub'}/>
+      <MyApp status='completed' text={'key frame'}/>
+      <MyApp status='completed' text={'ex 6'}/>
+      <MyApp status='completed' text={'smell react'}/>
+      <MyApp status='completed' text={'webpack'}/>
+      <MyApp status='on-going' text={'bable'}/>
+      <MyApp status='not started'text={'file system'}/>
